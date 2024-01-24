@@ -183,6 +183,8 @@ while(loopcounter <= 26):
 
 #? return computer
 #? return player
+
+ 
  if player == 100:
      print("Jūs vinējat!")
 
