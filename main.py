@@ -181,6 +181,8 @@ while(loopcounter <= 26):
  print("Jūsu pozīcija:", player)
 
 
+#? return computer
+#? return player
  if player == 100:
      print("Jūs vinējat!")
 
